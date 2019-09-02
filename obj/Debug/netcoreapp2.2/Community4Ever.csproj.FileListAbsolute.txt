@@ -1,0 +1,11 @@
+F:\Project\Community4Ever\bin\Debug\netcoreapp2.2\Community4Ever.deps.json
+F:\Project\Community4Ever\bin\Debug\netcoreapp2.2\Community4Ever.runtimeconfig.json
+F:\Project\Community4Ever\bin\Debug\netcoreapp2.2\Community4Ever.runtimeconfig.dev.json
+F:\Project\Community4Ever\bin\Debug\netcoreapp2.2\Community4Ever.dll
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.csprojAssemblyReference.cache
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.csproj.CoreCompileInputs.cache
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.RazorAssemblyInfo.cache
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.RazorAssemblyInfo.cs
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.AssemblyInfoInputs.cache
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.AssemblyInfo.cs
+F:\Project\Community4Ever\obj\Debug\netcoreapp2.2\Community4Ever.RazorTargetAssemblyInfo.cache
